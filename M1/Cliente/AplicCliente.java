@@ -27,7 +27,7 @@ public class AplicCliente{
 
             System.out.println("id..............: "+objCli.getId());
             System.out.println("Nome............: "+objCli.getNome());
-            System.out.println("Email...........: "+objCli.getNome());
+            System.out.println("Email...........: "+objCli.getEmail());
             System.out.println("Total da Compra.: "+objCli.getTotalCompra());
             System.out.println("Porc Desconto...: "+objCli.getProcentagemDesconto());
             System.out.println("Total a Pagar...: "+objCli.getTotalPagar());
